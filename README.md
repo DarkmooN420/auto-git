@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/yomun/auto-git) 
+
 <h1 align="center">Auto Git</h1>
 <h3 align="center">Automatic update source code to GitHub.com on Linux (Gnome)</h3>
 <br>
